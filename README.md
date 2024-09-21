@@ -4,7 +4,7 @@
 **POWER BI PROJECT description:**<br/>
 **Project 1:**<br/>
 **Name:** Madhav E-Comm sales dashboard<br/>
-**Desc:** I have used Power bi to analze the sales based on various parameters:<br/>
+**Desc:** I have used Power bi to analze the sales based on various parameters:
 <ol>
     <li>Quantity by Month </li>
     <li>Sum of Profit by Sub-Category</li>
@@ -20,7 +20,7 @@
 **TABLEAU PROJECT description:**<br/>
 **Project 1:**<br/> 
 **Name:** Business Summary<br/>
-**Desc:** In this project I have summarized the sales of a Chocolate Bussiness based on various parameters:<br/>
+**Desc:** In this project I have summarized the sales of a Chocolate Bussiness based on various parameters:
 <ol>
     <li>Sales by Country</li>
     <li>Top 10 Sales Persons across various countries</li>
