@@ -32,4 +32,21 @@
     </ul>
     based on the country selected</li>
 </ol>
+
+
+**Project 1:**<br/> 
+**Name:** Business Summary<br/>
+**Desc:** In this project I have summarized the sales of a Chocolate Bussiness based on various parameters:
+<ol>
+    <li>Sales by Country</li>
+    <li>Top 10 Sales Persons across various countries</li>
+    <li>In the end, I have summarized each and every thing which will show the--
+    <ul>
+        <li>Amount</li>
+        <li>Boxes shipped</li>
+        <li>Shippment count </li>
+    </ul>
+    based on the country selected</li>
+</ol>
+     
      
