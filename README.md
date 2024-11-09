@@ -43,3 +43,4 @@
     <li>Sales by Product Category</li>
     <li>Weekly Trends: Sales and Profit over Time
 </ol>
+This dashboard helps visualize the most profitable products, top-selling categories, and time-based trends, supporting data-driven decisions on inventory and marketing strategies.
