@@ -34,8 +34,12 @@
 </ol>
 
 
+**TABLEAU PROJECT description:**<br/>
 **Project 2:**<br/> 
-**Name:** <br/>
-
-
-
+**Name:** Sales and Profit Analysis<br/>
+**Desc:** This project provides a comprehensive summary of sales and profit trends for a retail business based on multiple parameters:
+<ol>
+    <li>Top 10 Products by Profit</li>
+    <li>Sales by Product Category</li>
+    <li>Weekly Trends: Sales and Profit over Time
+</ol>
